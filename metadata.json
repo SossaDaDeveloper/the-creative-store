@@ -1,0 +1,8 @@
+{
+  "name": "Remix: The Creative Store",
+  "description": "A bold, playful e-commerce store with a distinctive geometric design and vibrant aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
