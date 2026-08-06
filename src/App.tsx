@@ -31,8 +31,8 @@ export default function App() {
             <Search className="w-4 h-4 cursor-pointer" />
           </div>
 
-          <div className="absolute left-1/2 -translate-x-1/2 font-display text-xl font-bold tracking-tighter sm:text-2xl">
-            THE CREATIVE STORE
+          <div className="absolute left-1/2 -translate-x-1/2 font-display text-xl font-bold tracking-tighter sm:text-3xl">
+            THE CREATIVE STORE VERSION 2
           </div>
 
           <div className="flex items-center gap-4">
